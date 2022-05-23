@@ -1,0 +1,8 @@
+Character	Mode	Description
+‘r’	Read (default)	Open a file for read only
+‘w’	Write	Open a file for write only (overwrite)
+‘a’	Append	Open a file for write only (append)
+‘r+’ Read+Write	open a file for both reading and writing
+‘x’	Create	Create a new file
+
+
